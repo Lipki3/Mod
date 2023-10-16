@@ -1,0 +1,204 @@
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\lr1mod.exe
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\lr1mod.deps.json
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\lr1mod.runtimeconfig.json
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\lr1mod.runtimeconfig.dev.json
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\lr1mod.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ref\lr1mod.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\lr1mod.pdb
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.Main_form.resources
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.Result_form.resources
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.GenerateResource.cache
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.AssemblyInfo.cs
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\ref\lr1mod.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.pdb
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.genruntimeconfig.cache
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.gist.resources
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.tests.resources
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.CopyComplete
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\FastReport.Compat.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\FastReport.DataVisualization.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod\lr1mod\bin\Debug\net5.0-windows\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.exe
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.deps.json
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.runtimeconfig.json
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.runtimeconfig.dev.json
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ref\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.pdb
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\FastReport.Compat.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\FastReport.DataVisualization.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\bin\Debug\net5.0-windows\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.gist.resources
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.Main_form.resources
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.tests.resources
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.GenerateResource.cache
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.AssemblyInfo.cs
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.CopyComplete
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\ref\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.pdb
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.genruntimeconfig.cache
+C:\Users\user\source\repos\lr1mod — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.Result_form.resources
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.exe
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.deps.json
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.runtimeconfig.json
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.runtimeconfig.dev.json
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ref\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\lr1mod.pdb
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\FastReport.Compat.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\FastReport.DataVisualization.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\bin\Debug\net5.0-windows\runtimes\any\lib\netcoreapp3.0\FastReport.Compat.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.gist.resources
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.Main_form.resources
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.Result_form.resources
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.tests.resources
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.GenerateResource.cache
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.AssemblyInfo.cs
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.csproj.CopyComplete
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\ref\lr1mod.dll
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.pdb
+C:\Users\user\source\repos\lr1mod — копия — копия\lr1mod\obj\Debug\net5.0-windows\lr1mod.genruntimeconfig.cache
